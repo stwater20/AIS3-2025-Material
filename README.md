@@ -4,5 +4,6 @@ Welcome to the AIS3-2025 material repository! Here, you'll find resources to hel
 
 [https://ais3.org/Home/Course](https://ais3.org/Home/Course)
 
+---
 
-... This person is very lazy and didn't write anything at all.
+This person is very lazy and didn't write anything at all.
